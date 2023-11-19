@@ -1,0 +1,2 @@
+# CalculadoraNutricional
+ um software desktop para realizar rapidamente cálculos muito comuns na rotina de nutricionistas.   O softw  Cálculo de IMC (índice de massa corporal) Calculo de gasto calórico basal, que é quanto uma pessoa gasta de caloria para simplesmente sobreviver Cálculo de gasto calórico total, que considera a quantidade de atividades físicas que a pessoa realiza Recomendação de quantidade de carboidrato, proteína e gordura que a pessoa deve ingerir  
